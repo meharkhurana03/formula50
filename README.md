@@ -7,3 +7,5 @@ This is a web-based application. Some technologies used are:
 - HTML
 - CSS
 - JavaScript
+
+## [Demo](https://youtu.be/rlfwrpKj_o0)
